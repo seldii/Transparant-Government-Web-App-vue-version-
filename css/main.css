@@ -1,0 +1,26 @@
+.jumbotron {
+    padding: 10px;
+    margin: 0px;
+    color: black;
+    background-color: #f8f9fa!important;
+}
+
+a {
+    color: darkblue;
+};
+
+.table th a {
+    color: darkslateblue;
+}
+
+.table th {
+    border-top:none !important;
+   
+}
+
+#noresult {
+    display: block;
+    text-align: center;
+    font-size: 1.5em;
+    color: darkgray;
+}
